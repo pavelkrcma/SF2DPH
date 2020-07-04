@@ -1,12 +1,14 @@
 # SF2DPH
 Generator DPH a KH z dat SuperFaktury
 
-Pozadavky:
+Pozadavky
+
 - platny ucet na SuperFaktura
 - vygenerovany API klic
 - schopnost upravovat Python script
 
-Zprovozneni:
+Zprovozneni
+
 Otevrete soubor get_data_from_sf.py a doplnte:
 - API klic a email na zacatku scriptu
 - sve udaje do tzv. vet XML souboru. Hledejte slovo DOPLNIT. Jsou to udaje dle formatu, jako je adresa, jmeno, cislo pracoviste atd.
